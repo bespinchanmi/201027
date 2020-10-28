@@ -10,5 +10,4 @@ branch3 작업
 
 master 수정
 
-마스터가 변경되면 나머지 브랜치에서 문제가 될까?
-
+branch3 수정 후 push
